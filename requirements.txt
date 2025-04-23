@@ -1,0 +1,4 @@
+# Use Mbed CLI 1.x to fetch sources, compile & flash
+mbed-cli==1.10.4
+# For Python-based serial terminal 
+pyserial>=3.5,<4.0
